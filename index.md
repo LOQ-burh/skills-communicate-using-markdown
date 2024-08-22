@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+English or Spanish, who move first is . . .
+- [X] Normal
+- [ ] G*|Y
